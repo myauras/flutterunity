@@ -1,0 +1,3 @@
+[submodule "HeroFishing"]
+	path = HeroFishing
+	url = https://github.com/AuroScoz/HeroFishing.git
