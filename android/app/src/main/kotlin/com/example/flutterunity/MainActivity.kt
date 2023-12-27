@@ -6,6 +6,7 @@ import io.flutter.plugin.common.MethodChannel
 import io.flutter.embedding.engine.FlutterEngine
 import com.xraph.plugin.flutter_unity_widget.UnityPlayerUtils
 
+
 class MainActivity: FlutterActivity() {
     @JvmField
     var mUnityPlayer: java.lang.Object? = null
